@@ -6,10 +6,8 @@ tags:
     Iron Banner
     Loot
     Summary
-category:
-    Games
+categories:
     Destiny
-toc: true
 ---
 
 # Abstract
@@ -23,4 +21,7 @@ incoming...
 # Rewards - Screenshot gallery
 
 incoming...
- 
+
+## Some subcat
+
+with text

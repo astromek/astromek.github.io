@@ -7,8 +7,8 @@ title: astromek
 subtitle:
 description: Small project et al
 author: astromek
-language:
-timezone:
+language: en
+timezone: Europe/Stockholm
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -74,3 +74,12 @@ deploy:
   name: astromek
   email: astromek@gmail.com
   repo: https://github.com/astromek/astromek.github.io.git
+
+# TOC
+## https://github.com/bubkoo/hexo-toc
+toc:
+  maxDepth: 3
+  
+# Google Charts
+## https://github.com/juampi92/hexo-tag-googlecharts
+## add before content: <script type="text/javascript" src="//www.google.com/jsapi"></script>
