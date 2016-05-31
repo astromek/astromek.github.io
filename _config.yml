@@ -70,7 +70,7 @@ theme: landscape
 deploy:
   type: git
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
-  branch: gh-pages
+  branch: master
   name: astromek
   email: astromek@gmail.com
   repo: https://github.com/astromek/astromek.github.io.git
